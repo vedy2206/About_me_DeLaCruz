@@ -44,7 +44,9 @@ a:hover {
 
 .fa-greater-than {
   font-size: 14px;
+  color: #0066CC;
 }
+
 
 .container {
   width: 700px;
@@ -88,11 +90,29 @@ ul {
   padding-left: 0px;
 }
 
-i {
+.fa-github-square {
   font-size: 50px;
   color: #909096;
 }
-i:hover {
+.fa-github-square:hover {
+  font-size: 50px;
+  color: #323233;
+}
+
+.fa-linkedin {
+  font-size: 50px;
+  color: #909096;
+}
+.fa-linkedin:hover {
+  font-size: 50px;
+  color: #323233;
+}
+
+.fa-facebook-square {
+  font-size: 50px;
+  color: #909096;
+}
+.fa-facebook-square:hover {
   font-size: 50px;
   color: #323233;
 }
